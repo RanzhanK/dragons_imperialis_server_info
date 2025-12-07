@@ -2,7 +2,7 @@
     "WBUI2": {
         "settings": {
             "OpenButton": 6,
-            "HideIcon": false,
+            "HideIcon": true,
             "HideIconAfter": 300,
             "IconURL": "https://pic.survivalhost.org/images/2025/12/07/Logo-IMPERIALIS-200x200dfa6c0a31d1f735f.png",
             "DisableIconText": true,
