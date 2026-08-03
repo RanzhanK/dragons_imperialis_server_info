@@ -4,7 +4,7 @@
          "openbutton":6,
          "hideicon":false,
          "hideiconafter":300,
-         "iconurl":"https://survivalhost.org",
+         "iconurl":"https://pic.survivalhost.org/images/2025/12/07/Logo-IMPERIALIS-200x2005d3529affb99c6fc.png",
          "disableicontext":true,
          "iconposition":2,
          "icontextcolor":0,
@@ -16,7 +16,7 @@
          {
             "layout":1,
             "buttontext":"ИНФОРМАЦИЯ",
-            "imageurl":"https://survivalhost.org",
+            "imageurl":"https://pic.survivalhost.org/images/2025/12/07/2.png",
             "content":[
                {
                   "title":"Добро пожаловать на сервера Dragons Imperialis",
@@ -27,7 +27,7 @@
          {
             "layout":1,
             "buttontext":"ПРАВИЛА СЕРВЕРА",
-            "imageurl":"https://survivalhost.org",
+            "imageurl":"https://pic.survivalhost.org/images/2025/12/07/2.png",
             "content":[
                {
                   "title":"Правила сервера Dragons Imperialis",
@@ -39,23 +39,23 @@
       "links":[
          {
             "text":"DISCORD",
-            "url":"discord.gg"
+            "url":"https://discord.gg/ark-dragons-server"
          },
          {
             "text":"ВК",
-            "url":"vk.com"
+            "url":"https://vk.com/dragons_servers"
          },
          {
-            "text":"ТЕЛЕГРАМ",
-            "url":"t.me"
+            "text":"ТЕЛЕГРАММ",
+            "url":"https://t.me/dragons_server"
          },
          {
             "text":"YOUTUBE",
-            "url":"youtube.com"
+            "url":"https://www.youtube.com/@ranzhan"
          },
          {
             "text":"МАГАЗИН",
-            "url":"survivalshop.org"
+            "url":"https://dragons-imperialis.survivalshop.org/"
          }
       ],
       "version":2
